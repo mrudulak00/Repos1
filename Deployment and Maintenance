@@ -1,10 +1,9 @@
-Deployement
-1.GPS And GSM System Embedded on a Train.
-2.A cen
-Maintainance
+Deployement:
+1.GSM System and a Camera Embedded on a Train to send the location and Snapshot of the Obstacle.
+2.A central system for Monitoring the Tracks for any Cracks or Obstacle needs to be Deployed.
+
+Maintainance:
 1.Feedback from Engineman will be taken  
 2.Regular meetings will be organised for improvements to make system more effective
 3.Results will be compaired with each change.
 4.Based on results Accuracy should be improved
-
-
